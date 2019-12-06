@@ -1,0 +1,41 @@
+{
+    "swiper":[
+        {
+            "img": "http://dummyimage.com/300x300"
+        }
+    ],
+    "shu":[
+        {
+            "img":"http://dummyimage.com/20x20",
+            "name":"数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        },
+        {
+            "img": "http://dummyimage.com/20x20",
+            "name": "数据"
+        }
+    ]
+}
